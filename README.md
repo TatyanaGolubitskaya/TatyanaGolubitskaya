@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9kZHNobzJ4bzJmMzk1N2EzNnp4ZnAyb3d2bjkwbXNoYzhobTJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif width="846" height="50"/>
 </div>
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -13,4 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<div id="header" align="center">
+  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9kZHNobzJ4bzJmMzk1N2EzNnp4ZnAyb3d2bjkwbXNoYzhobTJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif width="846" height="50"/>
 </div>
